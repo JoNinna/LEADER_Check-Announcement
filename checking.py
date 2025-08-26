@@ -11,7 +11,7 @@ load_dotenv()
 url="https://gal-dsgh.ro/leader-2023-2027/category/evenimente-de-animare/"
 
 # Termeni de cautat
-keywords = ["Anunt ANIMARE-Iulie 2025", "Anunt ANIMARE-Septembrie 2025", "Anunt ANIMARE-Octombrie 2025"]
+keywords = ["Anunt ANIMARE-August 2025", "Anunt ANIMARE-Septembrie 2025", "Anunt ANIMARE-Octombrie 2025"]
 
 # Configurație Telegram
 BOT_TOKEN = os.getenv("BOT_TOKEN").strip()
